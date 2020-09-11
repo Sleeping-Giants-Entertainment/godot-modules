@@ -10,6 +10,3 @@
 [submodule "sqlite"]
 	path = sqlite
 	url = https://github.com/godot-extended-libraries/godot-sqlite.git
-[submodule "lottie"]
-	path = lottie
-	url = https://github.com/godot-extended-libraries/lottie.git
